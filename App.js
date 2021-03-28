@@ -30,6 +30,7 @@ export default function App() {
       console.log('async', hist, pastTasks)
     } catch (error) {
       console.log(error)
+      //daa
     }
   }
   const loadFocusHistory = async () => {
